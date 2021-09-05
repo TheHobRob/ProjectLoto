@@ -1,0 +1,18 @@
+---
+layout: post
+title: "The Tittle"
+---
+
+Howdy! This is a test post so if you see this:
+CONGRADULATIONS!
+You made something work for once! :)
+
+Also here's what the test post was supposed to say...
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
+
+Also here's a link to an amazing video: [Video][Video]
+
+[Video]: [https://www.youtube.com/watch?v=bsFtLaCiGkE]
